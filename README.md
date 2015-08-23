@@ -224,10 +224,10 @@ testf(list(d = ddneta, p = pdneta, q = qdneta, r = rdneta),
 
 <img src="github_extra/figure/dneta-1.png" title="plot of chunk dneta" alt="plot of chunk dneta" width="700px" height="600px" />
 
-## Sum of logs of (non-central) chi-squares 
+## Weighted sum of logs of (non-central) chi-squares 
 
-This distribution is the sum of logs of independent 
-non-central chi-square variates.
+This distribution is the weighted sum of logs of independent 
+(non-central) chi-square variates.
 
 
 ```r
